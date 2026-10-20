@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/Wansensr/loon-telegram-rules/main/Telegram.lsr
 `raw.githubusercontent.com` 连不上时用 jsDelivr（钉死 commit，避免 CDN 缓存滞后）：
 
 ```
-https://cdn.jsdelivr.net/gh/Wansensr/loon-telegram-rules@COMMIT_PLACEHOLDER/Telegram.lsr
+https://cdn.jsdelivr.net/gh/Wansensr/loon-telegram-rules@6497cf6/Telegram.lsr
 ```
 
 ## 与上游的差异
